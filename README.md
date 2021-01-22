@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ลัทธพล เลาหพิลูลรัตนา
+# STUDENT ID: 630610759
